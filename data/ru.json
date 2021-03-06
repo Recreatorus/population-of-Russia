@@ -1,0 +1,682 @@
+[
+  {
+    "code": "1",
+    "name": "Адыгея",
+    "population": "463.1",
+    "costs": "24.3",
+    "finance": "23.2",
+    "salary": "37113"
+  },
+  {
+    "code": "2",
+    "name": "Республика Башкортостан",
+    "population": "4038.2",
+    "costs": "226.6",
+    "finance": "204.6",
+    "salary": "44208"
+  },
+  {
+    "code": "3",
+    "name": "Республика Бурятия",
+    "population": "985.9",
+    "costs": "76.1",
+    "finance": "73.4",
+    "salary": "51580"
+  },
+  {
+    "code": "4",
+    "name": "Республика Алтай",
+    "population": "220.2",
+    "costs": "21.7",
+    "finance": "21.6",
+    "salary": "44851"
+  },
+  {
+    "code": "5",
+    "name": "Республика Дагестан",
+    "population": "3110.9",
+    "costs": "138.6",
+    "finance": "138.6",
+    "salary": "37490"
+  },
+  {
+    "code": "6",
+    "name": "Республика Ингушетия",
+    "population": "507.1",
+    "costs": "26.9",
+    "finance": "26.9",
+    "salary": "32969"
+  },
+  {
+    "code": "7",
+    "name": "Кабардино-Балкарская Республика",
+    "population": "868.4",
+    "costs": "35.7",
+    "finance": "35.7",
+    "salary": "36638"
+  },
+  {
+    "code": "8",
+    "name": "Республика Калмыкия",
+    "population": "271.1",
+    "costs": "16.3",
+    "finance": "16.2",
+    "salary": "38096"
+  },
+  {
+    "code": "9",
+    "name": "Карачаево-Черкесская Республика",
+    "population": "465.5",
+    "costs": "26.2",
+    "finance": "26.5",
+    "salary": "35726"
+  },
+  {
+    "code": "10",
+    "name": "Республика Карелия",
+    "population": "614.1",
+    "costs": "60.3",
+    "finance": "58",
+    "salary": "54900"
+  },
+  {
+    "code": "11",
+    "name": "Республика Коми",
+    "population": "820.5",
+    "costs": "93.4",
+    "finance": "86",
+    "salary": "66130"
+  },
+  {
+    "code": "12",
+    "name": "Республика Марий Эл",
+    "population": "679.4",
+    "costs": "35.4",
+    "finance": "35.4",
+    "salary": "37446"
+  },
+  {
+    "code": "13",
+    "name": "Республика Мордовия",
+    "population": "790.2",
+    "costs": "40.8",
+    "finance": "42.9",
+    "salary": "35726"
+  },
+  {
+    "code": "14",
+    "name": "Республика Саха (Якутия)",
+    "population": "972.0",
+    "costs": "208.4",
+    "finance": "207.4",
+    "salary": "103329"
+  },
+  {
+    "code": "15",
+    "name": "Республика Северная Осетия — Алания",
+    "population": "696.84",
+    "costs": "34",
+    "finance": "34.4",
+    "salary": "37487"
+  },
+  {
+    "code": "16",
+    "name": "Республика Татарстан",
+    "population": "3902.6",
+    "costs": "273.2",
+    "finance": "270.1",
+    "salary": "47500"
+  },
+  {
+    "code": "17",
+    "name": "Республика Тыва",
+    "population": "327.4",
+    "costs": "33.3",
+    "finance": "32.6",
+    "salary": "51057"
+  },
+  {
+    "code": "18",
+    "name": "Удмуртская Республика",
+    "population": "1501.0",
+    "costs": "77.6",
+    "finance": "78",
+    "salary": "41051"
+  },
+  {
+    "code": "19",
+    "name": "Республика Хакасия",
+    "population": "534.3",
+    "costs": "32.8",
+    "finance": "30.7",
+    "salary": "51160"
+  },
+  {
+    "code": "20",
+    "name": "Чеченская Республика",
+    "population": "1478.7",
+    "costs": "98.9",
+    "finance": "91",
+    "salary": "34336"
+  },
+  {
+    "code": "21",
+    "name": "Чувашская Республика",
+    "population": "1217.8",
+    "costs": "55.4",
+    "finance": "55.6",
+    "salary": "38180"
+  },
+  {
+    "code": "22",
+    "name": "Алтайский край",
+    "population": "2317.2",
+    "costs": "118.1",
+    "finance": "112.4",
+    "salary": "37152"
+  },
+  {
+    "code": "23",
+    "name": "Краснодарский край",
+    "population": "5675.5",
+    "costs": "292.7",
+    "finance": "283",
+    "salary": "44733"
+  },
+  {
+    "code": "24",
+    "name": "Красноярский край",
+    "population": "2866.3",
+    "costs": "254.6",
+    "finance": "248.6",
+    "salary": "62846"
+  },
+  {
+    "code": "25",
+    "name": "Приморский край",
+    "population": "1895.9",
+    "costs": "141.6",
+    "finance": "136.8",
+    "salary": "60552"
+  },
+  {
+    "code": "26",
+    "name": "Ставропольский край",
+    "population": "2803.6",
+    "costs": "123.8",
+    "finance": "123",
+    "salary": "41638"
+  },
+  {
+    "code": "27",
+    "name": "Хабаровский край",
+    "population": "1315.6",
+    "costs": "115.4",
+    "finance": "108.2",
+    "salary": "64764"
+  },
+  {
+    "code": "28",
+    "name": "Амурская обл.",
+    "population": "790.0",
+    "costs": "61.8",
+    "finance": "62.3",
+    "salary": "61147"
+  },
+  {
+    "code": "29",
+    "name": "Архангельская обл.",
+    "population": "1136.5",
+    "costs": "101.5",
+    "finance": "93.3",
+    "salary": "65000"
+  },
+  {
+    "code": "30",
+    "name": "Астраханская обл.",
+    "population": "1005.8",
+    "costs": "50.8",
+    "finance": "52.2",
+    "salary": "48355"
+  },
+  {
+    "code": "31",
+    "name": "Белгородская обл.",
+    "population": "1549.2",
+    "costs": "103.9",
+    "finance": "97.5",
+    "salary": "42109"
+  },
+  {
+    "code": "32",
+    "name": "Брянская обл.",
+    "population": "1192.5",
+    "costs": "67.6",
+    "finance": "68.3",
+    "salary": "35188"
+  },
+  {
+    "code": "33",
+    "name": "Владимирская обл.",
+    "population": "1358.4",
+    "costs": "68.1",
+    "finance": "65.6",
+    "salary": "39906"
+  },
+  {
+    "code": "34",
+    "name": "Волгоградская обл.",
+    "population": "2491.0",
+    "costs": "108.7",
+    "finance": "108.9",
+    "salary": "41197"
+  },
+  {
+    "code": "35",
+    "name": "Вологодская обл.",
+    "population": "1160.5",
+    "costs": "81.8",
+    "finance": "82",
+    "salary": "48015"
+  },
+  {
+    "code": "36",
+    "name": "Воронежская обл.",
+    "population": "2324.2",
+    "costs": "124.2",
+    "finance": "123.6",
+    "salary": "40634"
+  },
+  {
+    "code": "37",
+    "name": "Ивановская обл.",
+    "population": "997.1",
+    "costs": "45.3",
+    "finance": "46.7",
+    "salary": "35321"
+  },
+  {
+    "code": "38",
+    "name": "Иркутская обл.",
+    "population": "2391.2",
+    "costs": "188.9",
+    "finance": "180.5",
+    "salary": "55847"
+  },
+  {
+    "code": "39",
+    "name": "Калининградская обл.",
+    "population": "1012.5",
+    "costs": "116.5",
+    "finance": "113.3",
+    "salary": "43650"
+  },
+  {
+    "code": "40",
+    "name": "Калужская обл.",
+    "population": "1002.6",
+    "costs": "72.3",
+    "finance": "69.4",
+    "salary": "51969"
+  },
+  {
+    "code": "41",
+    "name": "Камчатский край",
+    "population": "313.0",
+    "costs": "77",
+    "finance": "77",
+    "salary": "101047"
+  },
+  {
+    "code": "42",
+    "name": "Кемеровская обл.",
+    "population": "2657.9",
+    "costs": "171.3",
+    "finance": "154.6",
+    "salary": "51768"
+  },
+  {
+    "code": "43",
+    "name": "Кировская обл.",
+    "population": "1262.4",
+    "costs": "60.4",
+    "finance": "61",
+    "salary": "35939"
+  },
+  {
+    "code": "44",
+    "name": "Костромская обл.",
+    "population": "633.4",
+    "costs": "34.8",
+    "finance": "36.2",
+    "salary": "37851"
+  },
+  {
+    "code": "45",
+    "name": "Курганская обл.",
+    "population": "827.2",
+    "costs": "50.2",
+    "finance": "47",
+    "salary": "38667"
+  },
+  {
+    "code": "46",
+    "name": "Курская обл.",
+    "population": "1104",
+    "costs": "63.9",
+    "finance": "63.2",
+    "salary": "41057"
+  },
+  {
+    "code": "47",
+    "name": "Ленинградская обл.",
+    "population": "1875.9",
+    "costs": "154.1",
+    "finance": "146",
+    "salary": "53883"
+  },
+  {
+    "code": "48",
+    "name": "Липецкая обл.",
+    "population": "1139.4",
+    "costs": "69.2",
+    "finance": "66.1",
+    "salary": "44031"
+  },
+  {
+    "code": "49",
+    "name": "Магаданская обл.",
+    "population": "140.2",
+    "costs": "35.1",
+    "finance": "35.1",
+    "salary": "127137"
+  },
+  {
+    "code": "50",
+    "name": "Московская обл.",
+    "population": "7690.9",
+    "costs": "673.3",
+    "finance": "617.5",
+    "salary": "68970"
+  },
+  {
+    "code": "51",
+    "name": "Мурманская обл.",
+    "population": "741.4",
+    "costs": "76.9",
+    "finance": "73.9",
+    "salary": "82628"
+  },
+  {
+    "code": "52",
+    "name": "Нижегородская обл.",
+    "population": "3203.0",
+    "costs": "194.6",
+    "finance": "194.6",
+    "salary": "48768"
+  },
+  {
+    "code": "53",
+    "name": "Новгородская обл.",
+    "population": "596.5",
+    "costs": "36.6",
+    "finance": "36.1",
+    "salary": "37415"
+  },
+  {
+    "code": "54",
+    "name": "Новосибирская обл.",
+    "population": "2798.2",
+    "costs": "181.7",
+    "finance": "176.2",
+    "salary": "49343"
+  },
+  {
+    "code": "55",
+    "name": "Омская обл.",
+    "population": "1926.7",
+    "costs": "92.7",
+    "finance": "90.8",
+    "salary": "44833"
+  },
+  {
+    "code": "56",
+    "name": "Оренбургская обл.",
+    "population": "1956.8",
+    "costs": "106.2",
+    "finance": "102.4",
+    "salary": "39632"
+  },
+  {
+    "code": "57",
+    "name": "Орловская обл.",
+    "population": "733.5",
+    "costs": "36.3",
+    "finance": "36.3",
+    "salary": "38594"
+  },
+  {
+    "code": "58",
+    "name": "Пензенская обл.",
+    "population": "1305.6",
+    "costs": "62.4",
+    "finance": "61.7",
+    "salary": "39295"
+  },
+  {
+    "code": "59",
+    "name": "Пермский край",
+    "population": "2599.3",
+    "costs": "163.5",
+    "finance": "153",
+    "salary": "52684"
+  },
+  {
+    "code": "60",
+    "name": "Псковская обл.",
+    "population": "626.1",
+    "costs": "38.3",
+    "finance": "36.7",
+    "salary": "36447"
+  },
+  {
+    "code": "61",
+    "name": "Ростовская обл.",
+    "population": "4197.8",
+    "costs": "204.1",
+    "finance": "196.2",
+    "salary": "42989"
+  },
+  {
+    "code": "62",
+    "name": "Рязанская обл.",
+    "population": "1109.0",
+    "costs": "62.7",
+    "finance": "61.1",
+    "salary": "42979"
+  },
+  {
+    "code": "63",
+    "name": "Самарская обл.",
+    "population": "3179.5",
+    "costs": "184.8",
+    "finance": "184.8",
+    "salary": "44670"
+  },
+  {
+    "code": "64",
+    "name": "Саратовская обл.",
+    "population": "2421.9",
+    "costs": "111.4",
+    "finance": "108.4",
+    "salary": "37413"
+  },
+  {
+    "code": "65",
+    "name": "Сахалинская обл.",
+    "population": "488.3",
+    "costs": "166.3",
+    "finance": "162.7",
+    "salary": "108761"
+  },
+  {
+    "code": "66",
+    "name": "Свердловская обл.",
+    "population": "4310.7",
+    "costs": "296.6",
+    "finance": "267.2",
+    "salary": "50909"
+  },
+  {
+    "code": "67",
+    "name": "Смоленская обл.",
+    "population": "934.9",
+    "costs": "50.9",
+    "finance": "50.9",
+    "salary": "39235"
+  },
+  {
+    "code": "68",
+    "name": "Тамбовская обл.",
+    "population": "1006.7",
+    "costs": "50",
+    "finance": "47.6",
+    "salary": "36487"
+  },
+  {
+    "code": "69",
+    "name": "Тверская обл.",
+    "population": "1260.4",
+    "costs": "75.8",
+    "finance": "75.7",
+    "salary": "41298"
+  },
+  {
+    "code": "70",
+    "name": "Томская обл.",
+    "population": "1079.3",
+    "costs": "81",
+    "finance": "78",
+    "salary": "57194"
+  },
+  {
+    "code": "71",
+    "name": "Тульская обл.",
+    "population": "1466.1",
+    "costs": "90.4",
+    "finance": "84.8",
+    "salary": "46503"
+  },
+  {
+    "code": "72",
+    "name": "Тюменская обл.",
+    "population": "3756.5",
+    "costs": "221.6",
+    "finance": "162.6",
+    "salary": "93716"
+  },
+  {
+    "code": "73",
+    "name": "Ульяновская обл.",
+    "population": "1229.8",
+    "costs": "61.3",
+    "finance": "60.4",
+    "salary": "39101"
+  },
+  {
+    "code": "74",
+    "name": "Челябинская обл.",
+    "population": "3466.4",
+    "costs": "200.8",
+    "finance": "178.8",
+    "salary": "46361"
+  },
+  {
+    "code": "75",
+    "name": "Забайкальский край",
+    "population": "1059.7",
+    "costs": "76.3",
+    "finance": "73.6",
+    "salary": "59903"
+  },
+  {
+    "code": "76",
+    "name": "Ярославская обл.",
+    "population": "1253.4",
+    "costs": "77.9",
+    "finance": "77.9",
+    "salary": "44307"
+  },
+  {
+    "code": "77",
+    "name": "Москва",
+    "population": "12678.1",
+    "costs": "3150",
+    "finance": "2798.7",
+    "salary": "135375"
+  },
+  {
+    "code": "78",
+    "name": "Санкт-Петербург",
+    "population": "5398.1",
+    "costs": "727.7",
+    "finance": "674.9",
+    "salary": "83582"
+  },
+  {
+    "code": "79",
+    "name": "Еврейская автономная обл.",
+    "population": "158.3",
+    "costs": "11.8",
+    "finance": "11.9",
+    "salary": "55367"
+  },
+  {
+    "code": "83",
+    "name": "Ненецкий автономный округ",
+    "population": "44.1",
+    "costs": "19.4",
+    "finance": "17.1",
+    "salary": "105423"
+  },
+  {
+    "code": "86",
+    "name": "Ханты-Мансийский автономный округ - Югра",
+    "population": "1674.7",
+    "costs": "249",
+    "finance": "213.1",
+    "salary": "101983"
+  },
+  {
+    "code": "87",
+    "name": "Чукотский автономный округ",
+    "population": "50.29",
+    "costs": "40.2",
+    "finance": "40.8",
+    "salary": "137976"
+  },
+  {
+    "code": "89",
+    "name": "Ямало-Ненецкий автономный округ",
+    "population": "544.4",
+    "costs": "244.5",
+    "finance": "244.5",
+    "salary": "116810"
+  },
+  {
+    "code": "91",
+    "name": "Республика Крым",
+    "population": "1912.6",
+    "costs": "185.2",
+    "finance": "185.2",
+    "salary": "42505"
+  },
+  {
+    "code": "92",
+    "name": "Севастополь",
+    "population": "449.1",
+    "costs": "61.7",
+    "finance": "58.2",
+    "salary": "50372"
+  }
+]
